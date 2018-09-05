@@ -1,0 +1,46 @@
+/* p {
+    border: 1px solid green;
+    -webkit-border-radius: 24px;
+    text-align: center;
+    padding: 10%;
+    width: 20%
+} */
+
+/* nav{
+    display: inline;
+} */
+
+section {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: green;
+    margin: 1%;
+}
+
+p {
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+
+i {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 10%;
+}
+
+.facebook {
+    background-color: #1a0dab;
+}
+.instagram {
+    background-color: #609;
+}
+.whatsapp {
+    background-color: #29a71a;
+}
+.snapchat {
+    background-color: #fffc00;
+}
